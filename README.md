@@ -1,6 +1,6 @@
 ### ¡Hola! Soy Diego Silva 👋
 
-Soy un desarrollador apasionado por el **arte**, los **videojuegos** y la creación de **herramientas prácticas para el día a día** que resuelvan problemas reales de forma sencilla y eficiente.
+Soy un desarrollador apasionado por el **arte**, los **videojuegos** y la creación de **herramientas prácticas para el día a día** que resuelvan problemas reales de forma sencilla y eficiente. También co-dirijo un proyecto de emprendimiento creativo ([Kasy DG](https://www.instagram.com/kasy.dg/)).
 
 Me enfoco principalmente en el **desarrollo Backend**, construyendo la lógica, APIs y bases de datos detrás de cada aplicación, y lo complemento con desarrollo **Frontend** basado en estándares web nativos.
 
@@ -37,4 +37,5 @@ Me enfoco principalmente en el **desarrollo Backend**, construyendo la lógica, 
 
 ### 📫 Conecta conmigo
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tu_usuario/)
+[![Instagram Personal](https://img.shields.io/badge/Instagram_Personal-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dieggg_00/)
+[![Kasy DG](https://img.shields.io/badge/Emprendimiento_%7C_Kasy_DG-%23833AB4.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kasy.dg/)
